@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ichya Ulumiddiin and I'm a Informatics Student & AI Enthusiast, from Indonesia 🇮🇩.</h2>
+<h2 align="left">Hi 👋! My name is Ichya Ulumiddiin and I'm a Informatics Student & AI Enthusiast. </h2>
 
 ###
 
