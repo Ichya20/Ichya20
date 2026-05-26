@@ -2,7 +2,7 @@
 
 I'm an **Informatics Student & AI Enthusiast**.
 
-- 🌱 I’m currently learning **Deep Learning, Distributed Systems, & Modern Frontend**
+- 🌱 I’m currently learning **Deep Learning, Distributed Systems, & Computer Vision**
 - 👯 I’m looking to collaborate on **AI-Integrated Web Apps & Data Science Projects**
 - 💬 Ask me about **Data Analytics, Python, C++, & Algorithm Visualization**
 
