@@ -10,10 +10,7 @@ I'm an **Informatics Student & AI Enthusiast**.
 
 ### 📈 My GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ichya20&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ichya20&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
-</div>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Ichya20&show_icons=true&include_all_commits=true&theme=codeSTACKr)](https://github-stats-extended.vercel.app/api?username=Ichya20&show_icons=true&include_all_commits=true&theme=codeSTACKr)
 
 ---
 
